@@ -1,4 +1,4 @@
-# Customer Segmentation using K-Means
+# Customer Segmentation using K-Means Clustering (Python)
 
 ## Objective
 Segment customers based on income and spending behavior.
@@ -42,3 +42,8 @@ This segmentation helps businesses:
 
 ## Conclusion
 Customer segmentation helps improve business decisions and marketing strategies.
+
+## Future Improvements
+- Try different clustering algorithms (DBSCAN, Hierarchical Clustering)
+- Use more features for segmentation
+- Deploy model using Streamlit or Flask
