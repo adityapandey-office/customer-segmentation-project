@@ -25,6 +25,10 @@ K-Means clustering algorithm was used to segment customers into different groups
 ## Results
 Customers were segmented into 5 clusters based on income and spending behavior.
 
+## Output Visualization
+
+![Customer Segments](customer_segments.png)
+
 ## Business Value
 This segmentation helps businesses:
 - Identify high-value customers
