@@ -16,6 +16,21 @@ Segment customers based on income and spending behavior.
 4. K-Means Clustering
 5. Business Insights
 
+## Dataset
+The dataset contains customer information including age, gender, annual income, and spending score.
+
+## Model Used
+K-Means clustering algorithm was used to segment customers into different groups.
+
+## Results
+Customers were segmented into 5 clusters based on income and spending behavior.
+
+## Business Value
+This segmentation helps businesses:
+- Identify high-value customers
+- Target marketing campaigns
+- Improve customer engagement
+
 ## Key Insights
 - Identified premium customers
 - Found potential customers for marketing
