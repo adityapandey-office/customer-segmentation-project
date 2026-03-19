@@ -47,3 +47,15 @@ Customer segmentation helps improve business decisions and marketing strategies.
 - Try different clustering algorithms (DBSCAN, Hierarchical Clustering)
 - Use more features for segmentation
 - Deploy model using Streamlit or Flask
+
+## How to Run
+1. Install required libraries:
+   pip install pandas numpy matplotlib scikit-learn
+
+2. Open Jupyter Notebook:
+   python -m notebook
+
+3. Run the notebook step by step
+
+## Dataset Source
+This dataset is a sample mall customer dataset used for learning customer segmentation.
