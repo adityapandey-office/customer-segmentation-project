@@ -29,6 +29,9 @@ Customers were segmented into 5 clusters based on income and spending behavior.
 
 ![Customer Segments](customer_segments.png)
 
+## 📄 White Paper
+👉 [View Full White Paper](./Customer_Segmentation_White_Paper_Aditya_Pandey.pdf)
+
 ## Business Value
 This segmentation helps businesses:
 - Identify high-value customers
